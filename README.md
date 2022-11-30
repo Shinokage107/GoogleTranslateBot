@@ -7,9 +7,9 @@
     <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" /> 
     <img alt="MySql" src="https://img.shields.io/badge/MySQL-005C84?style=flat-square&logo=mysql&logoColor=white" />
 </p>
-<h1 align="center">DiscordJsBotTemplate</h1>
-<h3 align="center">An up to date Bot template using DiscordJs</h3>
-<p align="center">Last update: Wednesday, 30 November at 12:46 CET</p>
+<h1 align="center">Google Translate Discord Bot</h1>
+<h3 align="center">A Simple Public Google Translate Bot, for public channels or Dms</h3>
+<p align="center">Last update: Wednesday, 30 November at 14:00 CET</p>
 <h5 align="center"> Autor: Shinokage107<h5>
 <p align="center">
 <a href="https://github.com/Shinokage107" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=flat-square&logo=Github&logoColor=white" /></a> 
