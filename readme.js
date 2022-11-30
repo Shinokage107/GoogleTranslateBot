@@ -3,8 +3,9 @@ const fs = require("fs");
 const MUSTACHE_MAIN_DIR = "./main.mustache";
 
 let DATA = {
-  name: "DiscordJsBotTemplate",
-  description: "An up to date Bot template using DiscordJs",
+  name: "Google Translate Discord Bot",
+  description:
+    "A Simple Public Google Translate Bot, for public channels or Dms",
   autor: "Shinokage107",
   date: new Date().toLocaleDateString("en-GB", {
     weekday: "long",
