@@ -9,7 +9,7 @@
 </p>
 <h1 align="center">DiscordJsBotTemplate</h1>
 <h3 align="center">An up to date Bot template using DiscordJs</h3>
-<p align="center">Last update: Tuesday, 1 November at 03:26 CET</p>
+<p align="center">Last update: Wednesday, 30 November at 12:46 CET</p>
 <h5 align="center"> Autor: Shinokage107<h5>
 <p align="center">
 <a href="https://github.com/Shinokage107" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=flat-square&logo=Github&logoColor=white" /></a> 
